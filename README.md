@@ -1,4 +1,4 @@
-# 🎯 Skill Recommendation App
+# 🎯 Tech Job Market - Skill Recommendation
 
 A Python-based application that recommends skills based on user input,
 with country filtering and whitelist support.
