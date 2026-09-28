@@ -74,4 +74,4 @@ Built in collaboration by:
 - **Leonard Mutungi**
 
 ## 📄 License
-MIT License
+MIT License (LICENSE)
