@@ -44,7 +44,7 @@ reliable, and tech-focused dataset for our recommendation engine.
 ## 📁 Project Structure
 ```
 ├── frontend.py            # Main app entry point
-├── trial_new.py           # Skill recommendation logic
+├── recommender.py           # Skill recommendation logic
 ├── EDA.ipynb              # Exploratory data analysis
 ├── cleaned_data.csv       # Processed dataset
 ├── requirements.txt       # Dependencies
