@@ -55,8 +55,8 @@ reliable, and tech-focused dataset for our recommendation engine.
 
 ### Installation
 ```bash
-git clone https://github.com/aryd11/frontend.git
-cd frontend
+git clone https://github.com/aryd11/Tech-Job-Market.git
+cd Tech-Job-Market
 pip install -r requirements.txt
 ```
 
