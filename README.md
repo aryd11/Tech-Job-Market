@@ -9,6 +9,9 @@ with country filtering and whitelist support.
 
 <img width="600" alt="Filter Page" src="https://github.com/user-attachments/assets/6178b77e-dd5f-4861-8ebf-c6c1c533e6bd" />
 
+## 🔗 Live Demo
+Try the app here: [Tech Job Market - Skill Recommendation](https://techjobmarket-uktgsukkbtmx5f4x68dgnn.streamlit.app/)
+
 ## ✨ Features
 - Skill recommendations with whitelist filtering
 - Country-based filtering
