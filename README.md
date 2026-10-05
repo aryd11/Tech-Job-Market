@@ -1,8 +1,10 @@
 # 🎯 Tech Job Market - Skill Recommendation
 
-A Python-based application that recommends skills based on user input,
-with country filtering and whitelist support.
-
+- **Skill Recommendations:** Get personalized suggestions on what tech skill to learn next based on your current skills.
+- **Country Filtering:** See the most in-demand tech skills specific to your target country.
+- **Career-Relevant Results:** Recommendations are tailored to your target role, so you only see skills that actually matter for the job you want.
+- **Data-Driven Insights:** Recommendations are generated from curated Stack Overflow Developer Survey data.
+  
 <img width="600" alt="Home Page" src="https://github.com/user-attachments/assets/61e33fb7-4bb4-4232-93be-ee8195f3d194" />
 
 <img width="600" alt="Results Page" src="https://github.com/user-attachments/assets/13269785-4328-4287-85ec-452f4afe141e" />
