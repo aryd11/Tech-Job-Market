@@ -295,12 +295,8 @@ elif page == "💡 Personal Recommendations":
                         with col1:
                             st.markdown(f"## {i}")
                         with col2:
-                            demand_score = int(row['demand_score'] / 2) if row['demand_score'] else 0
                             st.markdown(f"""
                             ### 🚀 {row['skill']}
-                            **Demand Score:** {'⭐' * demand_score}{'☆' * (5 - demand_score)} ({row['demand_score']}/10)
-
-                            **Why learn this?** {row['reasons']}
                             """)
                         st.divider()
             else:
