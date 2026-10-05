@@ -3,11 +3,10 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import warnings
 import seaborn as sns
-from trial import JobMarketIntelligence  # ← Import dari trial.py
+from trial import JobMarketIntelligence  
 
 warnings.filterwarnings('ignore')
 
-# Cukup import dari trial.py saja seperti di atas.
 
 # Page configuration
 st.set_page_config(
@@ -17,8 +16,6 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-# Custom CSS for better styling
-# Custom CSS for better styling
 st.markdown("""
     <style>
     .main-header {
