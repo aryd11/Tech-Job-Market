@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import warnings
 import seaborn as sns
-from trial import JobMarketIntelligence  
+from recommender import JobMarketIntelligence  
 
 warnings.filterwarnings('ignore')
 
